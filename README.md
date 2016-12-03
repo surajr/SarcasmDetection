@@ -29,5 +29,4 @@ The objective of this project is to detect Sarcasm in a text or document. There 
 * We evaluated our approach with F1 score and obtained best score of 0.76 when used with features like sentiment analysis, POS bi grams and topic modeler and RandomForest as a classifier. 
 
 
-# SarcasmDetection
 
